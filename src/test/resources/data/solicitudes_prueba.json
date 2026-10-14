@@ -1,0 +1,66 @@
+[
+  {
+    "nombreSolicitante": "Juan Pérez",
+    "montoSolicitado": 5000.00,
+    "puntajeRiesgo": 750,
+    "numeroIncumplimientos": 0,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Solicitud válida con excelente historial crediticio"
+  },
+  {
+    "nombreSolicitante": "María García",
+    "montoSolicitado": 15000.00,
+    "puntajeRiesgo": 680,
+    "numeroIncumplimientos": 1,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Solicitud válida con riesgo moderado"
+  },
+  {
+    "nombreSolicitante": "Carlos López",
+    "montoSolicitado": -1000.00,
+    "puntajeRiesgo": 800,
+    "numeroIncumplimientos": 0,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Solicitud inválida por monto negativo"
+  },
+  {
+    "nombreSolicitante": "Ana Martínez",
+    "montoSolicitado": 25000.00,
+    "puntajeRiesgo": 450,
+    "numeroIncumplimientos": 5,
+    "tieneDeudasVencidas": true,
+    "descripcion": "Solicitud inválida por mal historial crediticio"
+  },
+  {
+    "nombreSolicitante": "Pedro Sánchez",
+    "montoSolicitado": 0.00,
+    "puntajeRiesgo": 700,
+    "numeroIncumplimientos": 0,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Solicitud inválida por monto cero"
+  },
+  {
+    "nombreSolicitante": "Laura Rodríguez",
+    "montoSolicitado": 8000.00,
+    "puntajeRiesgo": 600,
+    "numeroIncumplimientos": 2,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Solicitud válida con algunos incumplimientos menores"
+  },
+  {
+    "nombreSolicitante": "Juan Pérez",
+    "montoSolicitado": 5000.00,
+    "puntajeRiesgo": 750,
+    "numeroIncumplimientos": 0,
+    "tieneDeudasVencidas": false,
+    "descripcion": "Duplicado de primera solicitud - debe ser rechazado"
+  },
+  {
+    "nombreSolicitante": "Roberto Díaz",
+    "montoSolicitado": 35000.00,
+    "puntajeRiesgo": 550,
+    "numeroIncumplimientos": 3,
+    "tieneDeudasVencidas": true,
+    "descripcion": "Solicitud con alto riesgo y deudas vencidas"
+  }
+]
